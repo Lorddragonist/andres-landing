@@ -1,5 +1,5 @@
 {
-  "name": "andres-landing",
+  "name": "art-attack-landing",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lorddragonist/andres-landing.git"
+    "url": "git+https://github.com/Lorddragonist/art-attack-landing.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Lorddragonist/andres-landing/issues"
+    "url": "https://github.com/Lorddragonist/art-attack-landing/issues"
   },
-  "homepage": "https://github.com/Lorddragonist/andres-landing#readme",
+  "homepage": "https://github.com/Lorddragonist/art-attack-landing#readme",
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
